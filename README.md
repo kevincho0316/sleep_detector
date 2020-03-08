@@ -1,5 +1,7 @@
 sleep_detector
  ===============
+ 위 문서들은 조재준에의해 만들어졌으며 인용시 출처를 반드시 밝혀주시기 바랍니다. 
+ These documents have been made by JaJun-Cho. So if you will use or Quotation you must identify the source
 # Goal
 device based on OpenCV and Dlib that capture that you are sleeping or not
 # sleepdetector.py
