@@ -13,8 +13,8 @@ including keyboard,speak_recongizing, and Playsound these only for additional te
 ## Math
 there is no big deal in the math section you need to just know about EAR
 >### __EAR__
->ear is standing for eye aspect ratio 
->EAR uses 6dots for each eye to calculate a relationship between the width and the height of these coordinates.
+>EAR is standing for eye aspect ratio 
+>EAR uses 6 dots for each eye to calculate a relationship between the width and the height of these coordinates.
 >you can learn more in the article 
 >* article pdf link: <http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf>
 
